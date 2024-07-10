@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Path to the expense CSV file
-excel_file_path = r"C:\Users\aashi\Downloads\py\stage2\data\expense.csv"
+excel_file_path = r"data\expense.csv"
 
 # Function to perform the main analysis and display results
 def execution():
