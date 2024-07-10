@@ -5,7 +5,7 @@ tab1,tab2,tab3 = st.tabs(["About","Hobbies","Contact"])
 with tab1:  #Inside the first tab.
     col1,col2 = st.columns([0.3,0.7])
     with col1:
-        st.image("C:\\Users\\aashi\\Downloads\\py\\stage2\\mypic.png",width=200)
+        st.image("mypic.png",width=200)
         st.subheader("Ayesha Shariff :sunglasses:")
     
     with col2:
