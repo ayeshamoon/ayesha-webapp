@@ -14,8 +14,6 @@ if not os.path.exists(excel_filepath):
 
 def insert(date,category,description,currency_type,amount):
     print("add expense to csv file...testing")  
-    # Adyah activate venv https://docs.python.org/3/tutorial/venv.html
-
 
 
 # Function to clear fields
